@@ -1,0 +1,9 @@
+﻿customer_id,signup_date,country,spend_usd,status
+1,2026-01-03,US,124.50,active
+2,2026-01-05,CA,0,trial
+3,,US,9200.00,active
+4,2026-01-11,GB,78.20,churned
+5,not-a-date,US,,active
+6,2026-01-15,CA,88.10,active
+7,2026-01-16,,91.40,trial
+8,2026-01-18,US,102.00,active
